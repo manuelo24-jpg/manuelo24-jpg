@@ -10,7 +10,7 @@
 ### 🧠 Sobre mí
 
 - 🌱 Actualmente explorando nuevas tecnologías y patrones de desarrollo  
-- 🧩 Tengo experiencia con Java, JavaScript, y frameworks como Vue  
+- 🧩 Tengo experiencia con Python, Java, JavaScript, y frameworks como Vue, React y Angular 
 - 🔭 Me motiva crear proyectos personales para aprender y crecer  
 - 🎯 Objetivo: convertir buenas ideas en código funcional y elegante
 
@@ -19,7 +19,7 @@
 ### 🧰 Tecnologías que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,vue,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,vue,angular,react,python,html,css,git,github" />
 </p>
 
 ---

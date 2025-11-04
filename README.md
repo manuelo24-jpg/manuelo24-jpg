@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy <strong>Manuelo</strong></h1>
 
 <p align="center">
-  💻 Desarrollador entusiasta con gusto por el código limpio y los proyectos en Java, JavaScript, Vue…<br>
+  💻 Desarrollador entusiasta con gusto por el código limpio y los proyectos en Java, JavaScript, Angular, Python…<br>
   📍 Desde España | 🚀 Siempre aprendiendo algo nuevo
 </p>
 

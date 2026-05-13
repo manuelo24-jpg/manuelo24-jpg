@@ -4,6 +4,7 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=manuelo24-jpg&label=Visitas%20al%20perfil&color=667eea&style=flat-square)
 ![followers](https://img.shields.io/github/followers/manuelo24-jpg?label=Seguidores&style=flat-square&color=667eea)
+![repos](https://img.shields.io/badge/Repositorios-30-667eea?style=flat-square)
 
 ---
 
@@ -23,6 +24,15 @@ const manuelo = {
     objetivo: "Crear aplicaciones web que vean, piensen y decidan 🎯"
 };
 ```
+
+---
+
+## 🏆 Logros de GitHub
+
+<p align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" alt="Pull Shark" title="Pull Shark"/>
+</p>
+<p align="center"><b>🦈 Pull Shark</b> — Obtenido por abrir pull requests que han sido mergeados</p>
 
 ---
 
@@ -88,6 +98,13 @@ const manuelo = {
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
 Proyecto dinámico desarrollado en equipo utilizando Vue.js con componentes reutilizables.
+
+#### 📁 [pruebaEquipo10](https://github.com/manuelo24-jpg/pruebaEquipo10)
+**Aplicación de equipo — segunda iteración con Vue.js**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+
+Evolución del proyecto colaborativo pruebaEquipo, ampliando funcionalidades con Vue.js.
 
 #### 📁 [prueba-api](https://github.com/manuelo24-jpg/prueba-api)
 **API REST personalizada**

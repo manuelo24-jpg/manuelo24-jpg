@@ -6,7 +6,6 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=manuelo24-jpg&label=Profile%20Views&color=667eea&style=flat)
 ![followers](https://img.shields.io/github/followers/manuelo24-jpg?label=Followers&style=flat&color=667eea)
-![GitHub User's stars](https://img.shields.io/github/stars/manuelo24-jpg?style=flat&color=667eea)
 
 </div>
 
@@ -71,49 +70,35 @@ const manuelo = {
 
 ---
 
-## 💼 Experiencia y Habilidades
-
-<details open>
-<summary><b>Frontend Development</b></summary>
-
-- **Frameworks**: React.js, Vue.js, Angular
-- **Build Tools**: Vite, Webpack, Next.js
-- **Styling**: Tailwind CSS, CSS3, SCSS
-- **State Management**: Context API, Custom Hooks
-- **Type Safety**: TypeScript con tipos estrictos
-
-</details>
-
-<details open>
-<summary><b>Backend Development</b></summary>
-
-- **Frameworks**: NestJS, FastAPI, Java Spring
-- **Databases**: MySQL, Prisma ORM
-- **APIs**: RESTful, Real-time services
-- **Authentication**: JWT, Session-based
-
-</details>
-
-<details open>
-<summary><b>AI & Machine Learning</b></summary>
-
-- **LLMs**: LangChain, LangGraph, Groq API
-- **RAG Systems**: Retrieval Augmented Generation
-- **Computer Vision**: YOLO, OpenCV
-- **Data Processing**: Python, Jupyter Notebooks
-- **Embeddings**: Vector databases, Semantic search
-
-</details>
-
----
-
-## 📊 GitHub Stats
+## 💼 Tech Stack
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=manuelo24-jpg&theme=tokyonight&show_icons=true&count_private=true)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuelo24-jpg&layout=compact&theme=tokyonight)
+### Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### AI & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -121,21 +106,13 @@ const manuelo = {
 
 ## 🚀 Proyectos Adicionales
 
-| Proyecto | Descripción | Tech Stack |
-|----------|-------------|-----------|
-| [AgendaVisitas](https://github.com/manuelo24-jpg/AgendaVisitas2) | Gestor de visitas y citas | Vue.js, JavaScript |
-| [Angular Tour of Heroes](https://github.com/manuelo24-jpg/angular-tour-of-heroes) | Aplicación demo con Angular | Angular, TypeScript |
-| [Ejercicios Python](https://github.com/manuelo24-jpg/Ejercicios-Python) | Problemas resueltos de programación | Python, Jupyter |
-| [Tic Tac Toe](https://github.com/manuelo24-jpg/tic-tac-toe) | Juego interactivo | TypeScript, React |
-
----
-
-## 🎓 Certificaciones & Aprendizaje Continuo
-
-- 🎯 Especialización en Sistemas RAG y Aplicaciones con IA
-- 💻 Full-Stack Development con TypeScript
-- 🤖 Machine Learning y Computer Vision
-- 📚 Arquitectura de Software Escalable
+| Proyecto | Descripción | Tech |
+|----------|-------------|------|
+| [AgendaVisitas](https://github.com/manuelo24-jpg/AgendaVisitas2) | Gestor de visitas y citas | Vue.js |
+| [Angular Tour of Heroes](https://github.com/manuelo24-jpg/angular-tour-of-heroes) | Aplicación demo Angular | Angular |
+| [Ejercicios Python](https://github.com/manuelo24-jpg/Ejercicios-Python) | Problemas de programación | Python |
+| [Tic Tac Toe](https://github.com/manuelo24-jpg/tic-tac-toe) | Juego interactivo | TypeScript |
+| [Detección de Barcos](https://github.com/manuelo24-jpg/Prueba_concepto_deteccion_barcos) | Computer Vision | Python + YOLO |
 
 ---
 
@@ -143,9 +120,9 @@ const manuelo = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/manuelo24-jpg)
-[![Email](https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail)](mailto:contacto@ejemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/manuelo)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manuelo24-jpg)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manuelo)
 
 </div>
 

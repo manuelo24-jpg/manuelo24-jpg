@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Manuel%20Llano&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Software%20Engineering&descAlignY=60&fontSizeDesc=22)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Manuel%20Llano&fontSize=68&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=62&fontSizeDesc=22)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;🤖+AI+%26+LLM+Applications;⚙️+Backend+%2B+Frontend+Engineering;📈+Scalable+and+Productive+Systems)](https://github.com/manuelo24-jpg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1200&color=667EEA&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;🤖+AI+%26+LLM+Applications;⚙️+Backend+%2B+Frontend+Engineering;📈+Scalable+Product+Development)](https://github.com/manuelo24-jpg)
 
 ![profile views](https://komarev.com/ghpvc/?username=manuelo24-jpg&label=Profile%20Views&color=667eea&style=flat)
 ![followers](https://img.shields.io/github/followers/manuelo24-jpg?label=Followers&style=flat&color=667eea)
@@ -11,19 +11,19 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-Soy un desarrollador Full Stack con enfoque en la creación de productos digitales robustos, escalables y con una experiencia de usuario excelente. Actualmente estoy enfocado en el desarrollo de software con una visión end-to-end: desde la arquitectura y la API hasta la interfaz y la experiencia final del usuario.
+I build digital products that combine solid engineering, modern UX, and real business value. My work focuses on full-stack development with a strong emphasis on scalable architecture, maintainable code, and intelligent solutions powered by AI.
 
-Mi trabajo combina desarrollo frontend, backend, integración de IA y una fuerte atención a la calidad, mantenibilidad y rendimiento de las soluciones. Estoy profundizando en nuevas tecnologías, metodologías modernas de trabajo y arquitecturas que me permiten construir aplicaciones más inteligentes, rápidas y listas para producción.
+I enjoy working across the entire stack: from designing APIs and systems to crafting user interfaces with a clean, functional experience. I am currently expanding my skills in software engineering, AI integration, and modern development workflows to build products that are not only functional, but also efficient, elegant, and ready to scale.
 
 ```javascript
 const manuelo = {
-  📍 ubicacion: "España 🇪🇸",
-  💼 rol: "Full Stack Developer & AI Engineer",
-  🎯 enfoque: "Productos escalables, inteligentes y centrados en el usuario",
+  📍 location: "Spain 🇪🇸",
+  💼 role: "Full Stack Developer & AI Engineer",
+  🎯 focus: "Scalable products, clean architecture, and AI-driven experiences",
 
-  💻 stack_principal: [
+  💻 core_stack: [
     "TypeScript",
     "JavaScript",
     "React",
@@ -33,15 +33,17 @@ const manuelo = {
     "Python",
     "FastAPI"
   ],
-  🧠 ia_y_data: [
+
+  🧠 ai_automation: [
     "LLMs",
     "LangChain",
     "LangGraph",
     "RAG",
     "Prompt Engineering",
-    "Integración con APIs IA"
+    "AI API Integration"
   ],
-  🗄️ datos_y_backend: [
+
+  🗄️ backend_data: [
     "PostgreSQL",
     "MySQL",
     "MongoDB",
@@ -50,7 +52,8 @@ const manuelo = {
     "REST APIs",
     "GraphQL"
   ],
-  🛠️ herramientas_y_metodologias: [
+
+  🛠️ methodologies: [
     "Docker",
     "GitHub Actions",
     "CI/CD",
@@ -58,81 +61,81 @@ const manuelo = {
     "Kanban",
     "TDD",
     "Clean Architecture",
-    "Code Review",
-    "GitFlow"
+    "GitFlow",
+    "Code Review"
   ],
 
-  ✨ filosofia: "Construir software útil, bien diseñado y listo para crecer",
-  🔭 focus_actual: "Full Stack + IA + arquitectura escalable + desarrollo productivo",
-  🎯 objetivo: "Crear soluciones reales que aporten valor, automatización y experiencia premium"
+  ✨ philosophy: "Build software that is useful, maintainable, and designed to grow",
+  🔭 current_focus: "Full Stack + AI + scalable architecture + product-driven engineering",
+  🎯 goal: "Create impactful digital products that combine technical excellence and real user value"
 };
 ```
 
 ---
 
-## 🚀 Enfoque actual
+## 🚀 Current Focus
 
-Estoy desarrollando proyectos con un enfoque full stack sólido, donde la parte frontend y backend están íntimamente conectadas y se diseñan bajo una misma estrategia productiva.
+I am developing solutions with a strong full-stack mindset, where frontend, backend, data flow, and AI capabilities are designed together as a unified system.
 
-### Actualmente estoy trabajando en:
+### I am actively working on:
 
-- Desarrollo de aplicaciones web modernas con React, Next.js y TypeScript
-- Arquitecturas backend con Node.js, NestJS, FastAPI y APIs escalables
-- Integración de inteligencia artificial en productos reales: asistentes, automatización y recuperación de información
-- Implementación de soluciones con bases de datos relacionales y no relacionales
-- Mejora continua de procesos mediante CI/CD, testing y calidad de código
-- Diseño de sistemas mantenibles, reutilizables y preparados para crecer
+- Building modern web applications with React, Next.js and TypeScript
+- Designing backend services with Node.js, NestJS and FastAPI
+- Integrating AI and LLM-based workflows into real products
+- Creating scalable architectures for business and user-facing systems
+- Improving development quality through testing, automation, and CI/CD
+- Delivering maintainable software with clean structure and long-term thinking
 
 ---
 
-## 🌟 Proyectos destacados
+## 🌟 Featured Projects
 
 ### 🍎 [NutriflarePro](https://github.com/manuelo24-jpg/NutriflarePro)
-**Plataforma de nutrición inteligente** | TypeScript + React + Prisma + MySQL
-- Aplicación full stack para gestión de planes nutricionales personalizados
-- Backend robusto con ORM y persistencia estructurada
-- Frontend moderno, responsive y orientado a la experiencia de usuario
-- Autenticación, administración y lógica de negocio compleja
-- Enfoque en escalabilidad y arquitectura limpia
+**Smart Nutrition Platform** | TypeScript + React + Prisma + MySQL
+- Full-stack platform for personalized nutrition plans
+- Strong backend architecture with Prisma and structured data models
+- Modern, responsive user interface focused on usability and conversion
+- Role-based logic, user management, and scalable domain structure
+- Designed with maintainability and product growth in mind
 
 ### 🤖 [Proyecto RAG - Sistema de Recuperación Aumentada](https://github.com/manuelo24-jpg/Proyecto-rag)
-**Retrieval Augmented Generation con LLMs** | Python + LangChain + LangGraph
-- Sistema RAG para búsqueda y recuperación de información contextualizada
-- Procesamiento de documentos y generación basada en contexto
-- Exploración práctica de IA generativa aplicada a productos reales
-- Integración de pipelines de embeddings, conocimiento y resultados inteligentes
+**Retrieval-Augmented Generation with LLMs** | Python + LangChain + LangGraph
+- RAG-based system for contextual knowledge retrieval and generation
+- Document processing, embeddings, and semantic search workflow
+- Practical exploration of AI integration for real-world applications
+- Strong focus on intelligent information access and business relevance
 
 ### 🌐 [Google Translator](https://github.com/manuelo24-jpg/googleTranslator)
-**Traductor web inteligente** | TypeScript + React + Vite
-- Aplicación de traducción multiidioma con UX clara y rápida
-- Desarrollo frontend moderno con enfoque en usabilidad
-- Implementación ligera y eficiente para una experiencia profesional
+**AI-powered translation web app** | TypeScript + React + Vite
+- Modern multilingual translation interface
+- Efficient frontend architecture with excellent UX
+- Lightweight, fast, and accessible product experience
 
 ### 📱 [React Hooks Practice](https://github.com/manuelo24-jpg/mi-app-react-hooks)
-**Exploración de React y patrones modernos** | TypeScript + React + Vite
-- Experimentos con hooks, gestión de estado y arquitectura de componentes
-- Mejora del rendimiento y entendimiento de React en profundidad
+**React patterns and frontend engineering** | TypeScript + React + Vite
+- Hands-on practice with hooks, state patterns, and component architecture
+- Improvement of performance, maintainability, and code quality
 
 ---
 
-## 🧩 Nuevos proyectos en desarrollo
+## 🧩 New Projects in Development
 
-Estoy impulsando varios proyectos con enfoque práctico y productivo, orientados a soluciones reales, automatización y experiencias útiles para usuarios finales.
+I am actively building new initiatives centered on product development, AI workflows, and scalable software systems.
 
-### 1. Plataformas SaaS y gestión empresarial
-- Dashboards operativos y paneles de control
-- Sistemas de gestión con autenticación, roles y permisos
-- Arquitecturas escalables para productos con crecimiento real
+### 1. SaaS and business platforms
+- Operational dashboards and internal management tools
+- Authentication, permissions, and business logic flows
+- Systems designed for scale and long-term maintainability
 
-### 2. Aplicaciones con IA integrada
-- Agentes y asistentes basado en LLMs
-- Flujos de RAG con bases de conocimiento
-- Automatización de tareas y análisis inteligente de información
+### 2. AI-integrated applications
+- LLM-based assistants and intelligent UX flows
+- RAG systems and knowledge retrieval experiences
+- Automation and contextual information processing
 
-### 3. Soluciones full stack con lógica de negocio sólida
-- APIs REST + frontend moderno
-- Integración con bases de datos y servicios externos
-- Desarrollo orientado a MVPs, escalabilidad y mantenibilidad
+### 3. End-to-end full-stack products
+- APIs and business services built for real-world use
+- Database integration and reliable architecture
+- MVPs and scalable product foundations designed for growth
 
 ---
 
@@ -177,33 +180,31 @@ Estoy impulsando varios proyectos con enfoque práctico y productivo, orientados
 
 ---
 
-## 🧠 Metodologías y buenas prácticas que estoy aplicando
+## 🧠 Working Methodology
 
-- Desarrollo Full Stack con enfoque de producto y negocio
-- Arquitecturas escalables y mantenibles
-- Clean Architecture y separación de responsabilidades
-- Scrum y Kanban para trabajo colaborativo y entregas iterativas
-- GitFlow y control de versiones profesional
-- Code review y mejora continua del código
-- TDD y validación de calidad con pruebas automatizadas
-- CI/CD para despliegues más seguros y eficientes
-- Optimización de rendimiento, UX y mantenibilidad
+- Full-stack development with product-oriented thinking
+- Clean architecture and maintainable code structure
+- Collaborative workflow with Scrum and Kanban
+- GitFlow, version control discipline, and code review culture
+- TDD and continuous validation for quality assurance
+- CI/CD automation to improve deployment reliability
+- Performance, UX, and maintainability as core priorities
 
 ---
 
-## 🚀 Proyectos adicionales
+## 🚀 Additional Projects
 
-| Proyecto | Descripción | Tech |
+| Project | Description | Tech |
 |----------|-------------|------|
-| [AgendaVisitas](https://github.com/manuelo24-jpg/AgendaVisitas2) | Gestor de visitas y citas | Vue.js |
-| [Angular Tour of Heroes](https://github.com/manuelo24-jpg/angular-tour-of-heroes) | Aplicación demo Angular | Angular |
-| [Ejercicios Python](https://github.com/manuelo24-jpg/Ejercicios-Python) | Problemas de programación | Python |
-| [Tic Tac Toe](https://github.com/manuelo24-jpg/tic-tac-toe) | Juego interactivo | TypeScript |
-| [Detección de Barcos](https://github.com/manuelo24-jpg/Prueba_concepto_deteccion_barcos) | Computer Vision | Python + YOLO |
+| [AgendaVisitas](https://github.com/manuelo24-jpg/AgendaVisitas2) | Visitor and appointment management app | Vue.js |
+| [Angular Tour of Heroes](https://github.com/manuelo24-jpg/angular-tour-of-heroes) | Angular demo app | Angular |
+| [Ejercicios Python](https://github.com/manuelo24-jpg/Ejercicios-Python) | Programming problem exercises | Python |
+| [Tic Tac Toe](https://github.com/manuelo24-jpg/tic-tac-toe) | Interactive game | TypeScript |
+| [Detección de Barcos](https://github.com/manuelo24-jpg/Prueba_concepto_deteccion_barcos) | Computer vision project | Python + YOLO |
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -217,8 +218,8 @@ Estoy impulsando varios proyectos con enfoque práctico y productivo, orientados
 
 <div align="center">
 
-### 💡 *"El software no solo resuelve problemas, también crea experiencias y transforma ideas en productos reales."*
+### 💡 *"Great software is not only functional — it is useful, scalable, and thoughtfully designed."*
 
-⭐ Si te gusta mi trabajo, puedes apoyar con una estrella a mis repositorios
+⭐ If you like my work, consider giving a star to my repositories
 
 </div>
